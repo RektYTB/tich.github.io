@@ -1,4 +1,4 @@
-**__PC__**
+### **PC**
 
 
 
@@ -46,7 +46,7 @@ https://www10.zippyshare.com/d/IiBIOdRU/774/Opti.zip
 
 
 
-**__Fortnite__**
+### **Fortnite**
 
 
 
@@ -65,7 +65,7 @@ https://imgur.com/a/CrjJls2
 
 
 
-**__Connexion__**
+### **Connexion**
 
 Téléchargez TCPOptimizer et appuyez sur "Optimal" (https://imgur.com/wTzx9WL) et appuyez sur "Apply changes" (en bas à droite) et pour finir sur "Ok"
 
