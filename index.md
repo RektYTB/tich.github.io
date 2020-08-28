@@ -70,3 +70,5 @@ https://imgur.com/a/CrjJls2
 Téléchargez TCPOptimizer et appuyez sur "Optimal" (https://imgur.com/wTzx9WL) et appuyez sur "Apply changes" (en bas à droite) et pour finir sur "Ok"
 
 Download : https://www99.zippyshare.com/d/P6UAXyX5/275/TCPOptimizer.exe
+
+Installez ce .bat et exécutez le en tant qu'administrateur : https://www5.zippyshare.com/v/VRGBmXks/file.html
