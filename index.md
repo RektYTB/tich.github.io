@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+**__PC__**
 
-You can use the [editor on GitHub](https://github.com/RektYTB/tich.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Allez sur l'anydesk de la personne et faites ce qui est marqué sur ses docs (nommez le pont de restauration : "Optimisation PC") 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Docs 1 : https://docs.google.com/document/d/1y2TZJtNrUC92VlL0099Wh4iBcTxGu3aT1DH07DBA1AU/edit
 
-```markdown
-Syntax highlighted code block
+Docs 2 : https://docs.google.com/document/d/1ccvJ_NNwHfTetV9thl4otLsJOxVEWwRsra-p0EDIaoE/mobilebasic
 
-# Header 1
-## Header 2
-### Header 3
+Docs 3 :
 
-- Bulleted
-- List
+https://docs.google.com/document/d/11RtQEkIo19CMckB4ApqGYQ_J69H18XiEERfUjCKyKx4/edit?usp=sharing
 
-1. Numbered
-2. List
+Vidéo 1 :
 
-**Bold** and _Italic_ and `Code` text
+https://www.youtube.com/watch?v=ttiA0zRbzko
 
-[Link](url) and ![Image](src)
-```
+Faites tout ce qui est marqué sur ce site :
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://piwielle.github.io/oui/ (sauf msi afterburner et mode msi)
 
-### Jekyll Themes
+Pour la ram utiliser RamCleaner (allez dans "Empty" et appuyez sur tous les boutons) :
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RektYTB/tich.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://www111.zippyshare.com/d/LCUUOwKE/878/RamCleaner_suplement.zip
 
-### Support or Contact
+Réduire les services svchost windows (a utiliser en tant qu'admin) :
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://www78.zippyshare.com/d/8ARwxYU7/112/SVCHOST.bat
+
+Le logiciel suivant vas s'occuper de définir les paramètres de vos drivers pour de meilleures performances ainsi que de leurs priorités. :
+
+https://www16.zippyshare.com/d/wFFwyFod/885/machine_specific.exe
+
+Exécuter le cmd en tant qu'administrateur et entrez cette ligne :
+
+`REG ADD HKLM\SYSTEM\CurrentControlSet\Control\PriorityControl /v Win32PrioritySeparation /t REG_DWORD /d 26 /f`
+
+Réduire la latence (à lancer en tant qu'administrateur) :
+
+https://www16.zippyshare.com/d/naGJEZlF/76/no_latence.bat
+
+Exécutez tous les .exe qui se trouvent dans ce .zip :
+
+https://www10.zippyshare.com/d/IiBIOdRU/774/Opti.zip
+
+
+
+**__Fortnite__**
+
+
+
+Utiliser ce GameUserSettings.ini (pour fortnite hein) :
+
+https://www16.zippyshare.com/d/wI2OAu29/682/GameUserSettings.ini
+
+Pour remplacer le fichier :
+
+Faites WIN+R et tapez `%localappdata%\FortniteGame\Saved\Config\WindowsClient` et remplacez le GameUserSettings.ini
+
+Paramètres IGN :
+
+https://imgur.com/a/CrjJls2
+
+
+
+
+**__Connexion__**
+
+Téléchargez TCPOptimizer et appuyez sur "Optimal" (https://imgur.com/wTzx9WL) et appuyez sur "Apply changes" (en bas à droite) et pour finir sur "Ok"
+
+Download : https://www99.zippyshare.com/d/P6UAXyX5/275/TCPOptimizer.exe
